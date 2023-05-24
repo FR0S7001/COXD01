@@ -4,9 +4,7 @@ Algoritmo sumar
 	escribir "programa que suma dos numeros"
 	Escribir "ingrese 1° numero"
 	Leer a
-	Escribir "ingrese 2° numero"
-	Leer b
-	//Proceso 
+	Escribir "ingrese 2° numero"chupa el pico felipe ql	//Proceso 
 	s=a+b
 	//salida
 	Escribir "el resultado suma de los numeros es:",s
